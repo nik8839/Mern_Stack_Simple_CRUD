@@ -1,0 +1,25 @@
+// backened
+npm init
+npm i express dotenv cors
+npm install --save-dev nodemon
+
+
+
+// backened
+npx create-react-app name_of_app
+// install mongodb
+//mongodb shell
+add to syatem env variable
+// add mongoose
+npm i mongoose
+
+code with harry mongo db craetesheet
+https://www.codewithharry.com/blogpost/mongodb-cheatsheet/
+
+
+
+//create simple get api
+// run via 
+npm run dev
+ 
+
